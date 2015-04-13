@@ -2,7 +2,6 @@
   <component name="ProjectManager">
     <defaultProject version="4">
       <component name="CompilerConfiguration">
-        <option name="DEFAULT_COMPILER" />
         <resourceExtensions />
         <wildcardResourcePatterns>
           <entry name="!?*.java" />
@@ -13,12 +12,20 @@
           <entry name="!?*.flex" />
           <entry name="!?*.kt" />
           <entry name="!?*.clj" />
+          <entry name="!?*.aj" />
         </wildcardResourcePatterns>
         <annotationProcessing>
           <profile default="true" name="Default" enabled="false">
             <processorPath useClasspath="true" />
           </profile>
         </annotationProcessing>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+          </MavenGeneralSettings>
+        </option>
       </component>
       <component name="NamedScopeManager">
         <order />
@@ -36,21 +43,13 @@
       <component name="ProjectModuleManager">
         <modules />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
-      <component name="PropertiesComponent">
-        <property name="GoToClass.includeLibraries" value="false" />
-        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-        <property name="GoToFile.includeJavaFiles" value="false" />
-        <property name="MemberChooser.sorted" value="false" />
-        <property name="MemberChooser.showClasses" value="true" />
-        <property name="MemberChooser.copyJavadoc" value="false" />
-      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="RunManager">
         <configuration default="true" type="Applet" factoryName="Applet">
-          <module />
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
@@ -79,11 +78,11 @@
           <option name="TEST_OBJECT" value="class" />
           <option name="VM_PARAMETERS" value="-ea" />
           <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
           <option name="ENV_VARIABLES" />
           <option name="PASS_PARENT_ENVS" value="true" />
           <option name="TEST_SEARCH_SCOPE">
-            <value defaultName="moduleWithDependencies" />
+            <value defaultName="singleModule" />
           </option>
           <envs />
           <patterns />
@@ -116,7 +115,7 @@
           <option name="ENV_VARIABLES" />
           <option name="PASS_PARENT_ENVS" value="true" />
           <option name="TEST_SEARCH_SCOPE">
-            <value defaultName="moduleWithDependencies" />
+            <value defaultName="singleModule" />
           </option>
           <option name="USE_DEFAULT_REPORTERS" value="false" />
           <option name="PROPERTIES_FILE" />
@@ -125,16 +124,12 @@
           <listeners />
           <method />
         </configuration>
-        <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
-          <Host>localhost</Host>
-          <Port>5050</Port>
-        </configuration>
       </component>
       <component name="masterDetails">
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.7</last-edited>
+              <last-edited>1.7_76 (x64)</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templateSet group="dan">
+  <template name="link" value="{@link $LINK$}" description="@link in javadocs" toReformat="true" toShortenFQNames="true">
+    <variable name="LINK" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="GROOVY" value="true" />
+    </context>
+  </template>
+</templateSet>
+

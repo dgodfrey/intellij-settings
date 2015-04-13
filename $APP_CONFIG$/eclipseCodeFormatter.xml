@@ -1,0 +1,19 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="defaultSettings" value="true" />
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1412919298711" />
+          <option name="importOrderConfigFilePath" value="C:/Data/Work/standard-model-database-script/example.importorder" />
+          <option name="importOrderFromFile" value="true" />
+          <option name="name" value="default" />
+          <option name="optimizeImports" value="false" />
+          <option name="pathToConfigFileJava" value="C:/Data/Work/formatter.xml" />
+          <option name="selectedJavaProfile" value="cor-stps" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,9 +1,7 @@
 <scheme name="DefaultDan" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <attributes>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
@@ -15,11 +13,29 @@
         <option name="FOREGROUND" value="cdcd00" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+      </value>
+    </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+      </value>
+    </option>
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="80" />
-        <option name="BACKGROUND" value="ffffff" />
-        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="8000" />
+      </value>
+    </option>
+    <option name="DEFAULT_TAG">
+      <value>
+        <option name="BACKGROUND" value="f6f6f6" />
       </value>
     </option>
     <option name="DIFF_DELETED">
@@ -76,12 +92,6 @@
     <option name="Instance property reference ID">
       <value>
         <option name="FOREGROUND" value="660e7a" />
-      </value>
-    </option>
-    <option name="SASS_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="800080" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="Static property reference ID">

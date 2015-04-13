@@ -4,9 +4,6 @@
       <profile-state />
     </entry>
   </component>
-  <component name="BaseRefactoringSettings">
-    <option name="RENAME_SEARCH_FOR_TEXT_FOR_FILE" value="false" />
-  </component>
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default (1)" />
   </component>
@@ -67,8 +64,6 @@
     <option name="SKIP_CLASSLOADERS" value="true" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
     <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
-    <option name="HOTSWAP_HANG_WARNING_ENABLED" value="true" />
-    <option name="SHOW_LIBRARY_STACKFRAMES" value="false" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -101,6 +96,14 @@
       <option name="PATTERN" value="com.yourkit.runtime.*" />
       <option name="ENABLED" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="com.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
   </component>
   <component name="DependencyUISettings">
     <option name="SCOPE_TYPE" value="file" />
@@ -109,10 +112,6 @@
     <option name="JIRA_LOGIN" value="" />
     <option name="JIRA_PASSWORD_CRYPT" value="" />
     <option name="KEEP_JIRA_PASSWORD" value="false" />
-  </component>
-  <component name="GlobalAntConfiguration">
-    <filtersTableLayout />
-    <propertiesTableLayout />
   </component>
   <component name="MavenBuildApplicationComponent">
     <option name="mavenExecutable" value="" />
@@ -139,20 +138,6 @@
     <option name="Update Snapshots" value="false" />
     <option name="Skip Tests" value="false" />
   </component>
-  <component name="PluginManagerConfigurable" proportions="" version="1">
-    <option name="AVAILABLE_SORT_COLUMN" value="0" />
-    <option name="INSTALLED_SORT_COLUMN" value="1" />
-    <option name="CART_SORT_COLUMN" value="0" />
-    <option name="AVAILABLE_SORT_COLUMN_ORDER" value="0" />
-    <option name="INSTALLED_SORT_COLUMN_ORDER" value="0" />
-    <option name="CART_SORT_COLUMN_ORDER" value="1" />
-    <available>
-      <option name="myProportion" value="175:70:175:175" />
-    </available>
-    <installed>
-      <option name="myProportion" value="48:15:45" />
-    </installed>
-  </component>
   <component name="PropertiesSeparatorManager">
     <file url="file://D:/Work/FlacConv/flacconv-test/resources/config.properties" separator="\u002e" />
     <file url="resourceBundle:file://D:/Work/maven-release/maven-release-manager/src/main/resources/release-messages" separator="\u002e" />
@@ -171,22 +156,13 @@
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
     <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
-  </component>
-  <component name="SbtSettings">
-    <option name="jdkHome" value="" />
   </component>
   <component name="SelectProjectTemplateSettings">
     <option name="EXPERT_MODE" value="true" />
-    <option name="LAST_TEMPLATE" value="Other/Scala Module" />
-  </component>
-  <component name="SystemNotifications">
-    <option name="NOTIFICATIONS">
-      <set>
-        <option value="Compiler (success)" />
-        <option value="TestRunner" />
-      </set>
-    </option>
+    <option name="LAST_TEMPLATE" value="Java/Java Module" />
   </component>
   <component name="WebServicesPluginSettings" WebServicesUrlPathPrefix="/services" RestClientHost="http://localhost:9998" ASK_TO_INSTALL_SOAPUI="true" />
   <component name="XPathView.XPathViewPlugin">
@@ -207,46 +183,8 @@
     </recent_templates>
   </component>
   <component name="com.intellij.javaee.ExternalResourceManagerImpl">
-    <resource url="jelly:email" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/email.xsd" />
-    <resource url="jelly:ant" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/ant.xsd" />
-    <resource url="jelly:memory" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/memory.xsd" />
-    <resource url="jelly:jsl" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/jsl.xsd" />
-    <resource url="jelly:dynabean" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/dynabean.xsd" />
-    <resource url="jelly:jface" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/jface.xsd" />
-    <resource url="jelly:betwixt" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/betwixt.xsd" />
-    <resource url="jelly:junit" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/junit.xsd" />
-    <resource url="jelly:core" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/core.xsd" />
-    <resource url="jelly:soap" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/soap.xsd" />
-    <resource url="jelly:validate" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/validate.xsd" />
-    <resource url="jelly:bsf" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/bsf.xsd" />
-    <resource url="jelly:stapler" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/stapler.xsd" />
-    <resource url="jelly:util" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/util.xsd" />
-    <resource url="jelly:swing" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/swing.xsd" />
-    <resource url="jelly:beanshell" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/beanshell.xsd" />
-    <resource url="jelly:antlr" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/antlr.xsd" />
-    <resource url="jelly:regexp" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/regexp.xsd" />
-    <resource url="jelly:html" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/html.xsd" />
-    <resource url="jelly:interaction" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/interaction.xsd" />
-    <resource url="jelly:jms" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/jms.xsd" />
-    <resource url="jelly:define" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/define.xsd" />
-    <resource url="jelly:jmx" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/jmx.xsd" />
-    <resource url="jelly:ojb" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/ojb.xsd" />
-    <resource url="jelly:threads" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/threads.xsd" />
-    <resource url="jelly:log" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/log.xsd" />
-    <resource url="jelly:velocity" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/velocity.xsd" />
-    <resource url="jelly:xmlunit" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/xmlunit.xsd" />
-    <resource url="jelly:http" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/http.xsd" />
-    <resource url="jelly:sql" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/sql.xsd" />
-    <resource url="jelly:fmt" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/fmt.xsd" />
-    <resource url="jelly:bean" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/bean.xsd" />
-    <resource url="jelly:swt" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/swt.xsd" />
-    <resource url="jelly:quartz" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/quartz.xsd" />
-    <resource url="jelly:xml" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/xml.xsd" />
-    <resource url="jelly:jetty" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/jetty.xsd" />
-    <resource url="jelly:jaxme" location="jar:file:/C:/Users/dan/.IdeaIC11/config/plugins/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/jaxme.xsd" />
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="tapestry:parameter" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://exslt.org/dates-and-times" />
     <ignored-resource url="http://exslt.org/math" />
@@ -255,7 +193,6 @@
     <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
-    <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
   </component>
   <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Trim space" />
   <component name="com.intellij.psi.impl.source.codeStyle.CodeStyleSchemesImpl">

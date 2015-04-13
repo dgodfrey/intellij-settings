@@ -19,10 +19,10 @@
       <option name="auto-sync" value="false" />
       <driver id="sqlserver.jtds" name="jTds">
         <library>
-          <url>file://$USER_HOME$/.IntelliJIdea13/config/jdbc-drivers/jtds-license.txt</url>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-license.txt</url>
         </library>
         <library>
-          <url>file://$USER_HOME$/.IntelliJIdea13/config/jdbc-drivers/jtds-1.2.5.jar</url>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-1.2.5.jar</url>
         </library>
       </driver>
       <driver id="sqlserver.ms" name="Microsoft" />
@@ -35,6 +35,12 @@
         </library>
         <library>
           <url>file://$USER_HOME$/.IntelliJIdea13/config/jdbc-drivers/jtds-1.2.5.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-license.txt</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-1.2.5.jar</url>
         </library>
       </driver>
       <driver id="sybase.ase" name="Native" />

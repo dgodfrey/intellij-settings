@@ -1,13 +1,6 @@
 <application>
-  <component name="Play2ExcludedModulesSettings">
-    <option name="SUITABLE_MODULES">
-      <set>
-        <option value="$USER_HOME$/Work/support-database-manager" />
-      </set>
-    </option>
-  </component>
   <component name="ScalaSettings">
-    <option name="COMPILE_SERVER_ID" value="fe76db74-11c5-48d9-a116-25f9462f8117" />
+    <option name="COMPILE_SERVER_ID" value="77d1ad83-24a4-4bd6-85c9-bad53dfcd067" />
     <option name="COMPILE_SERVER_SDK" value="1.7" />
   </component>
 </application>
