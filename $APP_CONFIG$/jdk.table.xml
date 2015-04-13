@@ -1,0 +1,643 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="RVM: ruby-1.8.7-p374" />
+      <type value="RUBY_SDK" />
+      <version value="ver.1.8.7 p374" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/site_ruby/1.8/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/vendor_ruby/1.8/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/1.8/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea12/config/plugins/ruby/rubystubs/rubystubs18" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/site_ruby/1.8/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/vendor_ruby/1.8/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/1.8/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea12/config/plugins/ruby/rubystubs/rubystubs18" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby18" IS_RVM_SDK="true" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-1.9.3-p448" />
+      <type value="RUBY_SDK" />
+      <version value="ver.1.9.3p448 ( revision 41675) p448" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea12/config/plugins/ruby/rubystubs/rubystubs193" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea12/config/plugins/ruby/rubystubs/rubystubs193" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby19" IS_RVM_SDK="true" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="1.7" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.7.0_25&quot;" />
+      <homePath value="/usr/lib/jvm/java-7-openjdk-amd64" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/compilefontconfig.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/javazic.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/pulse-java.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/dnsns.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-openjdk-amd64/src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-1.9.3-p484" />
+      <type value="RUBY_SDK" />
+      <version value="ver.1.9.3p484 ( revision 43786) p484" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby19" IS_RVM_SDK="true" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.1.1" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.1.1p76 ( revision 45161) p76" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.1.1/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/site_ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/site_ruby/2.1.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/vendor_ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/vendor_ruby/2.1.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs21" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/site_ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/site_ruby/2.1.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/vendor_ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/vendor_ruby/2.1.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs21" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby21" IS_RVM_SDK="true" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.1.1/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: jruby-1.7.12" />
+      <type value="JRUBY_SDK" />
+      <version value="ver.1.7.12 (1.9.3p392) 643e292 on OpenJDK 64-Bit Server VM 1.7.0_51-b31 p392" />
+      <homePath value="$USER_HOME$/.rvm/rubies/jruby-1.7.12/bin/jruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/jruby-1.7.12/lib/ruby/shared" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/jruby-1.7.12/lib/ruby/1.9" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs19" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/jruby-1.7.12/lib/ruby/shared" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/jruby-1.7.12/lib/ruby/1.9" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs19" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby19" IS_RVM_SDK="true" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/jruby-1.7.12/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-1.9.3-p545" />
+      <type value="RUBY_SDK" />
+      <version value="ver.1.9.3p545 ( revision 45159) p545" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby19" IS_RVM_SDK="true" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="openjdk version &quot;1.8.0_40-internal&quot;" />
+      <homePath value="/usr/lib/jvm/java-8-openjdk-amd64" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/icedtea-sound.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/dnsns.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 18 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.7.0_25&quot;" />
+      <homePath value="$USER_HOME$/Applications/android-sdk-linux" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/Applications/android-sdk-linux/platforms/android-18/android.jar!/" />
+            <root type="simple" url="file://$USER_HOME$/Applications/android-sdk-linux/platforms/android-18/data/res" />
+            <root type="simple" url="jar://$USER_HOME$/Applications/android-sdk-linux/tools/support/annotations.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="http://developer.android.com/reference/" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="1.7" sdk="android-18" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 17 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.7.0_25&quot;" />
+      <homePath value="$USER_HOME$/Applications/android-sdk-linux" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/Applications/android-sdk-linux/platforms/android-17/android.jar!/" />
+            <root type="simple" url="file://$USER_HOME$/Applications/android-sdk-linux/platforms/android-17/data/res" />
+            <root type="simple" url="jar://$USER_HOME$/Applications/android-sdk-linux/tools/support/annotations.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="http://developer.android.com/reference/" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="1.7" sdk="android-17" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 21 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.7.0_25&quot;" />
+      <homePath value="$USER_HOME$/Applications/android-sdk-linux" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/Applications/android-sdk-linux/platforms/android-21/android.jar!/" />
+            <root type="simple" url="file://$USER_HOME$/Applications/android-sdk-linux/platforms/android-21/data/res" />
+            <root type="simple" url="jar://$USER_HOME$/Applications/android-sdk-linux/tools/support/annotations.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Applications/android-sdk-linux/sources/android-21" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.7" sdk="android-21" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.1.1 [global]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.1.1p76 ( revision 45161) p76" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.1.1/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/site_ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/site_ruby/2.1.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/vendor_ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/vendor_ruby/2.1.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs21" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/site_ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/site_ruby/2.1.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/vendor_ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/vendor_ruby/2.1.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs21" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby21" IS_RVM_SDK="true" RVM_GEMSET_NAME="global" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.1.1/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: jruby-1.7.12 [global]" />
+      <type value="JRUBY_SDK" />
+      <version value="ver.1.7.12 (1.9.3p392) 643e292 on OpenJDK 64-Bit Server VM 1.7.0_75-b13 p392" />
+      <homePath value="$USER_HOME$/.rvm/rubies/jruby-1.7.12/bin/jruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/jruby-1.7.12/lib/ruby/shared" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/jruby-1.7.12/lib/ruby/1.9" />
+            <root type="simple" url="jar://$USER_HOME$/.rvm/rubies/jruby-1.7.12/lib/jruby.jar!/jruby" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/jruby-1.7.12/lib/ruby/shared" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/jruby-1.7.12/lib/ruby/1.9" />
+            <root type="simple" url="jar://$USER_HOME$/.rvm/rubies/jruby-1.7.12/lib/jruby.jar!/jruby" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby19" IS_RVM_SDK="true" RVM_GEMSET_NAME="global" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/jruby-1.7.12/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-1.8.7-p374 [global]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.1.8.7 p374" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/site_ruby/1.8/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/vendor_ruby/1.8/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/1.8/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs18" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/site_ruby/1.8/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/vendor_ruby/1.8/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/lib/ruby/1.8/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs18" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby18" IS_RVM_SDK="true" RVM_GEMSET_NAME="global" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.8.7-p374/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-1.9.3-p448 [global]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.1.9.3p448 ( revision 41675) p448" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby19" IS_RVM_SDK="true" RVM_GEMSET_NAME="global" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.3-p448/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-1.9.3-p484 [global] (1)" />
+      <type value="RUBY_SDK" />
+      <version value="ver.1.9.3p484 ( revision 43786) p484" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby19" IS_RVM_SDK="true" RVM_GEMSET_NAME="global" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.3-p484/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-1.9.3-p545 [global]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.1.9.3p545 ( revision 45159) p545" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby19" IS_RVM_SDK="true" RVM_GEMSET_NAME="global" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.3-p545/bin" />
+    </jdk>
+  </component>
+</application>
